@@ -1,5 +1,5 @@
-# Landing Page Templates
+# AbacatePay Landing Page
 
-Repository for published landing page template branches.
+Static export prepared for Netlify.
 
-- Branch `abacatepay`: static export cloned from https://abacatepay.com/
+Source clone generated from https://abacatepay.com/ using Ditto.
